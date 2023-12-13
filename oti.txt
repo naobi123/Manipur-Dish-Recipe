@@ -2,5 +2,7 @@ ingredients
 mangal
 soda
 maroi napakpi
+oil
+water
 
 
