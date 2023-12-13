@@ -1,3 +1,7 @@
 paneer
 milk
 butter
+tomato
+garlic
+onion
+oil
